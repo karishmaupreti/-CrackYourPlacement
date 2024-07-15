@@ -13,7 +13,9 @@ This repository is my personal log of the journey through this intensive challen
 Connect with Me
 
 LeetCode ID:karishmaupreti
+
 GeeksforGeeks ID: karishmaupreti
+
 I welcome you to follow my journey and review my solutions. If you have any questions, feedback, or suggestions, please feel free to reach out.
 
 Conclusion
