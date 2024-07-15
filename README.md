@@ -12,9 +12,9 @@ This repository is my personal log of the journey through this intensive challen
 
 Connect with Me
 
-LeetCode ID:karishmaupreti
+LeetCode ID: https://leetcode.com/u/karishmaupreti/
 
-GeeksforGeeks ID: karishmaupreti
+GeeksforGeeks ID: https://www.geeksforgeeks.org/user/karishmaupreti/
 
 I welcome you to follow my journey and review my solutions. If you have any questions, feedback, or suggestions, please feel free to reach out.
 
